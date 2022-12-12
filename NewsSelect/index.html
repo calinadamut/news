@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title></title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <link rel="stylesheet" type="text/css" href="/styleNewsAPI.css" />
+  <link rel="icon" type="image/x-icon" href="/img/favico.ico">
+  <!--<script src="/US-Sources/script.js" defer></script> -->
+
+
+  <form>
+    <b> Select you favourite news source dropdown list </b>
+    <select id = "myList" onchange = "favTutorial()" >
+    <option> ---Choose news Source--- </option>
+    <option> Axios </option>
+    <option>Bloomberg</option>
+    <option>Buzzfeed</option>
+    <option>CNN</option>
+    <option>Engadget</option>
+    <option>Fortune</option>
+    <option>IGN</option>
+    <option>Mashable</option>
+    <option>MSNBC</option>
+    <option>Newsweek</option>
+    <option>Politico</option>
+    <option>Polygon</option>
+    <option>Recode</option>
+    <option>Reddit</option>
+    <option>Reuters</option>
+    <option>TechCrunch</option>
+    <option>TechRadar</option>
+    <option>TheAmericanConservative</option>
+    <option>TheHill</option>
+    <option>TheHuffingtonPost</option>
+    <option>TheNextWeb</option>
+    <option>TheVerge</option>
+    <option>TheWallStreetJournal</option>
+    <option>TheWashingtonPost</option>
+    <option>TheWashingtonTimes</option>
+    <option>Time</option>
+    <option>USAToday</option>
+    <option>ViceNews</option>
+    <option>Wired</option>
+    </select>
+    <p> Your selected tutorial site is: <input type = "text" id = "favourite" size = "20" </p>
+    
+    </form>
+
+<script>
+function favTutorial() {
+var mylist = document.getElementById("myList");
+document.getElementById("favourite").value = mylist.options[mylist.selectedIndex].text;
+}
+</script>
+
+</head>
+<body>
+  
+
+  <div id="app"></div>
+  <script>
+
+// let apiUrl = 'https://newsapi.org/v2/top-headlines/sources?country=us&language=en'
+let apiUrl = 'https://newsapi.org/v2/top-headlines?language=en&sources='
+let newsFeed = document.getElementById("favourite").value
+let apiKey = '&apiKey=c6186e7143cf4e73a254cd62cd0fd71b'
+let apiString = apiUrl + newsFeed + apiKey
+//let apiString = apiUrl + mylist.options[mylist.selectedIndex].text + apiKey
+console.log(apiString)
+
+fetch(apiString)
+.then(result => result.json())
+.then(result =>
+{
+  result.articles.map(news =>
+  {
+    document.getElementById("app").innerHTML = `
+    <h1 class="app-title">News by Country (US) & language (en)</h1>
+    ${result.articles.map(newsTemplate).join("")}
+    `
+  });
+});
+
+function newsTemplate(news) {
+  return `
+    <div class="newscard">
+    <h4 class="news-description">${news.author} <a href=${news.url} target="_blank">[${news.author}]</a></h4>
+    <p>Published at: ${news.author}</p>
+    <p>Category: ${news.author}</p>
+    <p>Language: ${news.author}</p>
+    <p>Country: ${news.author}</p>
+    </div>
+  `;
+}
+
+  </script>
+</body>
+</html>
