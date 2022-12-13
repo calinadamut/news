@@ -2,7 +2,7 @@
 
 let apiUrl = 'https://newsapi.org/v2/top-headlines?sources=techcrunch'
 let apiKey = '&apiKey=c6186e7143cf4e73a254cd62cd0fd71b'
-let apiString = 'https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=c6186e7143cf4e73a254cd62cd0fd71b'
+let apiString = apiURL + apiKey
 console.log(apiString)
 
 fetch(apiString)
