@@ -1,8 +1,8 @@
 
 
-let apiUrl = 'https://newsapi.org/v2/top-headlines?sources=techcrunch'
-let apiKey = '&apiKey=c6186e7143cf4e73a254cd62cd0fd71b'
-let apiString = apiUrl + apiKey
+let apiUrl = 'https://newsapi.org/v2/top-headlines?sources=techcrunch';
+let apiKey = '&apiKey=c6186e7143cf4e73a254cd62cd0fd71b';
+let apiString = apiUrl + apiKey;
 
 fetch(apiString)
 .then(result => result.json())
