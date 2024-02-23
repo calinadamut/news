@@ -19,8 +19,8 @@
          <outline text="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" title="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" type="rss" xmlUrl="https://bitcoinmagazine.com/feed" />
       </outline>      
       <outline text="Reddit" title="Reddit">
-         <outline text="For everything you've always wanted to know about Germany" title="For everything you've always wanted to know about Germany" type="rss" xmlUrl="https://www.reddit.com/r/AskAGerman/.rss" />
-         <outline text="for everything you are curious about us Germans" title="for everything you are curious about us Germans" type="rss" xmlUrl="https://www.reddit.com/r/AskGermany/.rss" />
+         <outline text="AskAGerman" title="AskAGerman" type="rss" xmlUrl="https://www.reddit.com/r/AskAGerman/.rss" />
+         <outline text="AskGermany" title="AskGermany" type="rss" xmlUrl="https://www.reddit.com/r/AskGermany/.rss" />
          <outline text="Germany" title="Germany" type="rss" xmlUrl="https://www.reddit.com/r/germany/.rss" />
          <outline text="Reddit Romania" title="Reddit Romania" type="rss" xmlUrl="https://www.reddit.com/r/Romania/.rss" />
          <outline text="Bitcoin" title="Bitcoin" type="rss" xmlUrl="http://www.reddit.com/r/Bitcoin/.rss" />
