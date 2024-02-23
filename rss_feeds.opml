@@ -4,7 +4,7 @@
       <title>Fluent Reader Export</title>
    </head>
    <body>
-      <!--
+      
       <outline text="Photo" title="Photo">
          <outline text="The Luminous Landscape - What's New" title="The Luminous Landscape - What's New" type="rss" xmlUrl="http://feeds.feedburner.com/luminous-landscape-whatsnew" />
          <outline text="Digital Photography School" title="Digital Photography School" type="rss" xmlUrl="http://feeds.feedburner.com/DigitalPhotographySchool" />
@@ -69,7 +69,7 @@
          <outline text="Interior Design Ideas" title="Interior Design Ideas" type="rss" xmlUrl="http://www.home-designing.com/feed" />
          <outline text="Gradina" title="Gradina" type="rss" xmlUrl="http://www.casa-gradina.ro/feed/" />
       </outline>
-      -->
+      
       <outline text="Bitcoin" title="Bitcoin">
          <outline text="The Daily Hodl" title="The Daily Hodl" type="rss" xmlUrl="https://dailyhodl.com/feed/" />
          <outline text="Сryptonewmedia" title="Сryptonewmedia" type="rss" xmlUrl="http://feeds.feedburner.com/BitcoinIndependentNewsAndBlog" />
@@ -87,7 +87,7 @@
          <outline text="Cointelegraph" title="Cointelegraph" type="rss" xmlUrl="http://cointelegraph.com/rss" />
          <outline text="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" title="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" type="rss" xmlUrl="https://bitcoinmagazine.com/feed" />
       </outline>
-      <!--
+      
       <outline text="Photoshop" title="Photoshop">
          <outline text="Adobe Photoshop Lightroom Killer Tips" title="Adobe Photoshop Lightroom Killer Tips" type="rss" xmlUrl="http://lightroomkillertips.com/feed/" />
          <outline text="PhotoExtract.com - Plus Extract" title="PhotoExtract.com - Plus Extract" type="rss" xmlUrl="http://feeds.feedburner.com/plus-photo-extract" />
@@ -161,7 +161,7 @@
          <outline text="Bitcoin" title="Bitcoin" type="rss" xmlUrl="http://www.reddit.com/r/Bitcoin/.rss" />
          <outline text="World News" title="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" />
       </outline>
-      -->
+      
       <outline text="YT Music" title="YT Music">
          <outline text="Blues Lounge" title="Blues Lounge" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC4vs_6IdURyXrwYa74k-jw" />
          <outline text="Gentleman" title="Gentleman" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgeu2xe0XRscaKyvBt3WgmQ" />
