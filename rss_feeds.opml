@@ -131,7 +131,7 @@
          <outline text="Casa românilor din Elveţia" title="Casa românilor din Elveţia" type="rss" xmlUrl="http://casa-romanilor.ch/flux-rss" />
          <outline text="Newly Swissed" title="Newly Swissed" type="rss" xmlUrl="http://www.newlyswissed.com/?feed=rss2" />
       </outline>
-      -->
+      
       <outline text="_stuff" title="_stuff">
          <outline text="Sexgen.ro" title="Sexgen.ro" type="rss" xmlUrl="http://feeds.apropo.ro/sexgen" />
          <outline text="Intre Fete" title="Intre Fete" type="rss" xmlUrl="http://www.intrefete.ro/rss/" />
@@ -161,7 +161,7 @@
          <outline text="Bitcoin" title="Bitcoin" type="rss" xmlUrl="http://www.reddit.com/r/Bitcoin/.rss" />
          <outline text="World News" title="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" />
       </outline>
-      
+      -->
       <outline text="YT Music" title="YT Music">
          <outline text="Blues Lounge" title="Blues Lounge" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC4vs_6IdURyXrwYa74k-jw" />
          <outline text="Gentleman" title="Gentleman" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgeu2xe0XRscaKyvBt3WgmQ" />
