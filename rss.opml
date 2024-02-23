@@ -7,19 +7,19 @@
       <outline text="Bitcoin" title="Bitcoin">
          <outline text="The Daily Hodl" title="The Daily Hodl" type="rss" xmlUrl="https://dailyhodl.com/feed/" />
          <outline text="Сryptonewmedia" title="Сryptonewmedia" type="rss" xmlUrl="http://feeds.feedburner.com/BitcoinIndependentNewsAndBlog" />
-         <outline text="CoinJournal: Home" title="CoinJournal: Home" type="rss" xmlUrl="http://feeds.feedburner.com/coinjournal" />
+         <outline text="CoinJournal" title="CoinJournal" type="rss" xmlUrl="http://feeds.feedburner.com/coinjournal" />
          <outline text="Bitcoin News" title="Bitcoin News" type="rss" xmlUrl="https://news.bitcoin.com/feed/" />
          <outline text="ZyCrypto" title="ZyCrypto" type="rss" xmlUrl="https://zycrypto.com/feed/" />
          <outline text="NewsBTC" title="NewsBTC" type="rss" xmlUrl="http://newsbtc.com/feed/" />
-         <outline text="Bitcoin Insider - Updated news about bitcoin and all cryptocurrencies" title="Bitcoin Insider - Updated news about bitcoin and all cryptocurrencies" type="rss" xmlUrl="http://www.bitcoininsider.org/rss.xml" />
-         <outline text="CryptoCurrency – Finance Magnates" title="CryptoCurrency – Finance Magnates" type="rss" xmlUrl="http://www.financemagnates.com/cryptocurrency/feed/" />
+         <outline text="Bitcoin Insider" title="Bitcoin Insider" type="rss" xmlUrl="http://www.bitcoininsider.org/rss.xml" />
+         <outline text="CryptoCurrency" title="CryptoCurrency" type="rss" xmlUrl="http://www.financemagnates.com/cryptocurrency/feed/" />
          <outline text="UseTheBitcoin" title="UseTheBitcoin" type="rss" xmlUrl="https://usethebitcoin.com/feed/" />
          <outline text="BitcoinExchangeGuide" title="BitcoinExchangeGuide" type="rss" xmlUrl="https://bitcoinexchangeguide.com/feed/" />
-         <outline text="Bitcoin Trading Ideas, Analysis" title="Bitcoin Trading Ideas, Analysis" type="rss" xmlUrl="http://btctrading.wordpress.com/feed/" />
+         <outline text="Bitcoin Trading" title="Bitcoin Trading" type="rss" xmlUrl="http://btctrading.wordpress.com/feed/" />
          <outline text="BitcoinNews.com" title="BitcoinNews.com" type="rss" xmlUrl="http://www.bitcoinnews.com/rss" />
          <outline text="crypto.news" title="crypto.news" type="rss" xmlUrl="https://btcmanager.com/feed/" />
          <outline text="Cointelegraph" title="Cointelegraph" type="rss" xmlUrl="http://cointelegraph.com/rss" />
-         <outline text="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" title="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" type="rss" xmlUrl="https://bitcoinmagazine.com/feed" />
+         <outline text="Bitcoin Magazine" title="Bitcoin Magazine" type="rss" xmlUrl="https://bitcoinmagazine.com/feed" />
       </outline>
       <outline text="Reddit" title="Reddit">
          <outline text="For everything you've always wanted to know about Germany" title="For everything you've always wanted to know about Germany" type="rss" xmlUrl="https://www.reddit.com/r/AskAGerman/.rss" />
