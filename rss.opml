@@ -36,7 +36,7 @@
       <outline text="News" title="News">
          <outline text="WSJ.com: US Business" title="WSJ.com: US Business" type="rss" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" />
          <outline text="WSJ.com: World News" title="WSJ.com: World News" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" />
-         <outline text="NYT &gt; Business" title="NYT &gt; Business" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/business/rss.xml" />
+         <outline text="NYT &amp;gt; Business" title="NYT &amp;gt; Business" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/business/rss.xml" />
          <outline text="Business News" title="Business News" type="rss" xmlUrl="http://www.cnbc.com/id/10001147/device/rss/rss.html" />
          <outline text="The Economist" title="The Economist" type="rss" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml" />
          <outline text="Forbes - Business" title="Forbes - Business" type="rss" xmlUrl="http://www.forbes.com/business/index.xml" />
@@ -130,7 +130,7 @@
          <outline text="Nature Relaxation Films" title="Nature Relaxation Films" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4lp9Emg1ci8eo2eDkB-Tag" />
       </outline>
       <outline text="Swiss" title="Swiss">
-         <outline text="finews.ch" title="finews.ch" type="rss" xmlUrl="http://www.finews.ch/index.php?format=feed&amp;type=rss" />
+         <outline text="finews.ch" title="finews.ch" type="rss" xmlUrl="http://www.finews.ch/index.php?format=feed&amp;amp;type=rss" />
          <outline text="The Local" title="The Local" type="rss" xmlUrl="http://www.thelocal.ch/feeds/rss.php" />
          <outline text="Swiss Picks" title="Swiss Picks" type="rss" xmlUrl="http://swisspicks.wordpress.com/feed/" />
          <outline text="Casa românilor din Elveţia" title="Casa românilor din Elveţia" type="rss" xmlUrl="http://casa-romanilor.ch/flux-rss" />
