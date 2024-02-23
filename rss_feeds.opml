@@ -3,14 +3,14 @@
    <head>
       <title>RSS Feeds</title>
    </head>
-
+<!---->
    <body>
       <outline text="Photo" title="Photo">
          <outline text="The Luminous Landscape - What's New" title="The Luminous Landscape - What's New" type="rss" xmlUrl="http://feeds.feedburner.com/luminous-landscape-whatsnew" />
          <outline text="Digital Photography School" title="Digital Photography School" type="rss" xmlUrl="http://feeds.feedburner.com/DigitalPhotographySchool" />
          <outline text="Reviews (latest): Digital Photography Review (dpreview.com)" title="Reviews (latest): Digital Photography Review (dpreview.com)" type="rss" xmlUrl="http://www.dpreview.com/feeds/reviews.xml" />
       </outline>
-
+<!---->
       <outline text="Bursa" title="Bursa">
          <outline text="Conso RSS" title="Conso RSS" type="rss" xmlUrl="http://feeds.feedburner.com/CrediteBancare" />
          <outline text="Business Insider" title="Business Insider" type="rss" xmlUrl="http://feeds2.feedburner.com/businessinsider" />
@@ -21,7 +21,7 @@
          <outline text="Bani | Business | Ziare.com" title="Bani | Business | Ziare.com" type="rss" xmlUrl="http://www.ziare.com/rss/bani.xml" />
          <outline text="Wall-Street.ro" title="Wall-Street.ro" type="rss" xmlUrl="http://img.wall-street.ro/rssfeeds/wall-street.xml" />
       </outline>
-
+<!---->
       <outline text="Stiri" title="Stiri">
          <outline text="G4Media.ro" title="G4Media.ro" type="rss" xmlUrl="https://www.g4media.ro/feed" />
          <outline text="Contributors" title="Contributors" type="rss" xmlUrl="http://www.contributors.ro/feed/" />
@@ -36,7 +36,7 @@
          <outline text="CorectNews" title="CorectNews" type="rss" xmlUrl="http://www.corectnews.com/feed" />
          <outline text="Biziday" title="Biziday" type="rss" xmlUrl="http://www.biziday.ro/feed/" />
       </outline>
-
+<!---->
       <outline text="News" title="News">
          <outline text="WSJ.com: US Business" title="WSJ.com: US Business" type="rss" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" />
          <outline text="WSJ.com: World News" title="WSJ.com: World News" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" />
@@ -46,7 +46,7 @@
          <outline text="Forbes - Business" title="Forbes - Business" type="rss" xmlUrl="http://www.forbes.com/business/index.xml" />
          <outline text="Voice of America" title="Voice of America" type="rss" xmlUrl="http://www.voanews.com/templates/Articles.rss?sectionPath=/learningenglish/home" />
       </outline>
-
+<!---->
       <outline text="IT" title="IT">
          <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" />
          <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/Techcrunch" />
@@ -54,13 +54,13 @@
          <outline text="PCNews" title="PCNews" type="rss" xmlUrl="http://pcnews.ro/feed/" />
          <outline text="Engadget RSS Feed" title="Engadget RSS Feed" type="rss" xmlUrl="http://www.engadget.com/rss.xml" />
       </outline>
-
+<!---->
       <outline text="Interior Design" title="Interior Design">
          <outline text="Interior Design Ideas" title="Interior Design Ideas" type="rss" xmlUrl="http://www.home-designing.com/feed" />
          <outline text="Fresh Home" title="Fresh Home" type="rss" xmlUrl="http://freshhome.ro/feed/" />
          <outline text="Houzz" title="Houzz" type="rss" xmlUrl="http://www.houzz.com/getGalleries/featured/out-rss" />
       </outline>
-
+<!---->
       <outline text="Bitcoin" title="Bitcoin">
          <outline text="CoinJournal: Home" title="CoinJournal: Home" type="rss" xmlUrl="http://feeds.feedburner.com/coinjournal" />
          <outline text="Сryptonewmedia" title="Сryptonewmedia" type="rss" xmlUrl="http://feeds.feedburner.com/BitcoinIndependentNewsAndBlog" />
@@ -76,14 +76,14 @@
          <outline text="NewsBTC" title="NewsBTC" type="rss" xmlUrl="http://newsbtc.com/feed/" />
          <outline text="crypto.news" title="crypto.news" type="rss" xmlUrl="https://btcmanager.com/feed/" />
       </outline>
-
+<!---->
       <outline text="Photoshop" title="Photoshop">
          <outline text="The Photoshop Blog" title="The Photoshop Blog" type="rss" xmlUrl="http://www.photoshopsupport.com/photoshop-blog/feed.xml" />
          <outline text="Adobe Photoshop Lightroom Killer Tips" title="Adobe Photoshop Lightroom Killer Tips" type="rss" xmlUrl="http://lightroomkillertips.com/feed/" />
          <outline text="LightroomNews" title="LightroomNews" type="rss" xmlUrl="http://lightroom-news.com/feed/" />
          <outline text="PhotoExtract.com - Plus Extract" title="PhotoExtract.com - Plus Extract" type="rss" xmlUrl="http://feeds.feedburner.com/plus-photo-extract" />
       </outline>
-
+<!---->
       <outline text="YT Music" title="YT Music">
          <outline text="Blues Lounge" title="Blues Lounge" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC4vs_6IdURyXrwYa74k-jw" />
          <outline text="Relax Chillout Music" title="Relax Chillout Music" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUjD5RFkzbwfivClshUqqpg" />
@@ -99,7 +99,7 @@
          <outline text="The Red Live Radio" title="The Red Live Radio" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyn3W5r6dUG98LOgvI1g2JQ" />
          <outline text="Coffee Shop Ambience" title="Coffee Shop Ambience" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK5TFZ9yB5aAEuAjbv1i_GA" />
       </outline>
-
+<!---->
       <outline text="YT" title="YT">
          <outline text="CryptosRUs" title="CryptosRUs" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI7M65p3A-D3P4v5qW8POxQ" />
          <outline text="VisualPolitik EN" title="VisualPolitik EN" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT3v6vL2H5HK4loLMc8pmCw" />
@@ -114,7 +114,7 @@
          <outline text="Ruby MZA" title="Ruby MZA" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwSrE5lCoyMwAo-_mjUKwcQ" />
          <outline text="Robert Breedlove" title="Robert Breedlove" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC43_LTf5Z4lbRjKCq0sIAVg" />
       </outline>
-
+<!---->
       <outline text="Ziare" title="Ziare">
          <outline text="Ziare, Revista presei, Reviste, Stiri locale - Ziare.com" title="Ziare, Revista presei, Reviste, Stiri locale - Ziare.com" type="rss" xmlUrl="http://www.ziare.com/rss/actualitate.xml" />
          <outline text="Deutsche Welle: DW.DE - România" title="Deutsche Welle: DW.DE - România" type="rss" xmlUrl="http://rss.dw.de/xml/rss-rom-rom" />
@@ -126,15 +126,15 @@
          <outline text="Radio Europa Liberă/Radio Libertate..." title="Radio Europa Liberă/Radio Libertate..." type="rss" xmlUrl="http://www.europalibera.org/api/" />
          <outline text="Catavencii" title="Catavencii" type="rss" xmlUrl="http://www.catavencii.ro/rss" />
       </outline>
-
+<!---->
       <outline text="Bancuri" title="Bancuri">
          <outline text="Times New Roman" title="Times New Roman" type="rss" xmlUrl="https://www.timesnewroman.ro/feed/" />
       </outline>
-
+<!---->
       <outline text="YT Programming" title="YT Programming">
          <outline text="IAmTimCorey" title="IAmTimCorey" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-ptWR16ITQyYOglXyQmpzw" />
       </outline>
-
+<!---->
       <outline text="YT Special Videos" title="YT Special Videos">
          <outline text="Scenic Relaxation" title="Scenic Relaxation" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC95bEkaIgwhxSjSsdMFXYGg" />
          <outline text="8K World" title="8K World" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4CAxaO75mfkPr3GRiSGE_w" />
@@ -143,7 +143,7 @@
          <outline text="simple happiness" title="simple happiness" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSNCAZHyxLYW7e-_WvUNSfw" />
          <outline text="Nature Relaxation Films" title="Nature Relaxation Films" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4lp9Emg1ci8eo2eDkB-Tag" />
       </outline>
-
+<!---->
       <outline text="Swiss" title="Swiss">
          <outline text="finews.ch" title="finews.ch" type="rss" xmlUrl="http://www.finews.ch/index.php?format=feed&amp;type=rss" />
          <outline text="The Local" title="The Local" type="rss" xmlUrl="http://www.thelocal.ch/feeds/rss.php" />
@@ -151,7 +151,7 @@
          <outline text="Casa românilor din Elveţia" title="Casa românilor din Elveţia" type="rss" xmlUrl="http://casa-romanilor.ch/flux-rss" />
          <outline text="Newly Swissed" title="Newly Swissed" type="rss" xmlUrl="http://www.newlyswissed.com/?feed=rss2" />
       </outline>
-
+<!---->
       <outline text="_stuff" title="_stuff">
          <outline text="Institutul Ludwig von Mises România" title="Institutul Ludwig von Mises România" type="rss" xmlUrl="http://mises.ro/rss/" />
          <outline text="Ultimele stiri online  adaugate pe www.stiri.com.ro" title="Ultimele stiri online  adaugate pe www.stiri.com.ro" type="rss" xmlUrl="http://www.stiri.com.ro/rss/" />
@@ -168,6 +168,6 @@
          <outline text="Intre Fete" title="Intre Fete" type="rss" xmlUrl="http://www.intrefete.ro/rss/" />
          <outline text="Sexgen.ro" title="Sexgen.ro" type="rss" xmlUrl="http://feeds.apropo.ro/sexgen" />
       </outline>
-      
+<!----> 
    </body>
 </opml>
