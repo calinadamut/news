@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 03 Aug 2024 11:29:23 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Bancuri">
+      <outline text="Caţavencii" type="rss" xmlUrl="http://www.catavencii.ro/rss" htmlUrl="https://www.catavencii.ro/"/>
+      <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" htmlUrl="https://www.piticigratis.com/"/>
+    </outline>
+  </body>
+</opml>
