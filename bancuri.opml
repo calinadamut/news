@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>mySubscriptions.opml</title>
-    <dateCreated>Sat, 18 Jun 2005 12:11:52 GMT</dateCreated>
-    <dateModified>Tue, 02 Aug 2005 21:42:48 GMT</dateModified>
-    <ownerName>Dave Winer</ownerName>
-    <ownerEmail>dave@scripting.com</ownerEmail>
-    <expansionState></expansionState>
-    <vertScrollState>1</vertScrollState>
-    <windowTop>61</windowTop>
-    <windowLeft>304</windowLeft>
-    <windowBottom>562</windowBottom>
-    <windowRight>842</windowRight>
+    <title>Pitici Gratis Feeds</title>
+    <dateCreated>Sun, 04 Aug 2024 12:00:00 GMT</dateCreated>
+    <ownerName>Pitici Gratis</ownerName>
+    <ownerEmail>contact@piticigratis.com</ownerEmail>
   </head>
   <body>
-    <outline text="Pitici Gratis" description="Technology" htmlUrl="http://www.piticigratis.com/" language="ro" title="Pitici Gratis" type="rss" version="RSS" xmlUrl="http://www.piticigratis.com/feed/"/>
+    <outline text="Pitici Gratis" description="Latest updates from Pitici Gratis" htmlUrl="http://www.piticigratis.com" language="ro" title="Pitici Gratis" type="rss" version="RSS2" xmlUrl="http://www.piticigratis.com/feed/" />
   </body>
 </opml>
