@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+<opml version="1.0">
   <head>
-    <title>FreshRSS</title>
-    <dateCreated>Sat, 03 Aug 2024 10:16:14 +0000</dateCreated>
+     <title>Fluent Reader Export</title>
   </head>
   <body>
-    <outline text="Torrents">
-      <outline text="The Pirate Bay - HD - Movies" type="rss" xmlUrl="https://tpb.party/rss/top100/207" htmlUrl="https://tpb.party/"/>
-      <outline text="YTS RSS" type="rss" xmlUrl="https://yts.mx/rss" htmlUrl="https://yts.mx/"/>
-    </outline>
+     <outline text="Stiri">
+        <outline text="Pitici Gratis" name="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" />
+     </outline>
+ 
+     <outline text="Swiss" name="Swiss" />
   </body>
 </opml>
