@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
+<opml version="2.0">
   <head>
     <title>Bancuri</title>
   </head>
   <body>
-    <outline text="Bancuri" title="Bancuri">
+    <outline text="Bancuri">
       <outline type="rss" text="Times New Roman" title="Times New Roman" xmlUrl="https://www.timesnewroman.ro/feed/" htmlUrl="https://www.timesnewroman.ro/"/>
       <outline type="rss" text="Cațavencii" title="Cațavencii" xmlUrl="http://www.catavencii.ro/rss" htmlUrl="http://www.catavencii.ro/"/>
       <outline type="rss" text="Pitici Gratis" title="Pitici Gratis" xmlUrl="https://www.piticigratis.com/feed/" htmlUrl="https://www.piticigratis.com/"/>      
