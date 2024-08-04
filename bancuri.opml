@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<opml version="2.0">
-	<head>
-		<title>Illustrating the category attribute</title>
-		<dateCreated>Mon, 31 Oct 2005 19:23:00 GMT</dateCreated>
-		</head>
-	<body>
-		<outline text="The Mets are the best team in baseball." category="/Philosophy/Baseball/Mets,/Tourism/New York" created="Mon, 31 Oct 2005 18:21:33 GMT"/>
-		</body>
-	</opml>
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 03 Aug 2024 10:23:26 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Reddit">
+      <outline text="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
+      <outline text="₿itcoin" type="rss" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/"/>
+    </outline>
+  </body>
+</opml>
