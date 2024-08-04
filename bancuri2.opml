@@ -5,9 +5,9 @@
   </head>
   <body>
     <outline text="Stiri">
-      <outline text="Cațavencii" type="rss" xmlUrl="hhttp://www.catavencii.ro/rss" ></outline>
+      <outline text="Cațavencii" type="rss" xmlUrl="http://www.catavencii.ro/rss" ></outline>
        <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
-        <outline text="Times New Roman" type="rss" xmlUrl="https://www.timesnewroman.ro/feed/" ></outline>
+        <outline text="Times New Roman" type="rss" xmlUrl="htps://www.timesnewroman.ro/feed/" ></outline>
     </outline>
     <outline text="Swiss" />
   </body>
