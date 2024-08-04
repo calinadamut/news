@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
-   <head>
-      <title>Fluent Reader Export</title>
-   </head>
-   <body>
-      <outline text="Stiri">
-         <outline text="Pitici Gratis" name="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" />
-      </outline>
-
-      <outline text="Swiss" name="Swiss" />
-   </body>
+<opml version="2.0">
+  <head>
+    <title>Fluent Reader Export</title>
+  </head>
+  <body>
+    <outline text="Stiri">
+      <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
+    </outline>
+    <outline text="Swiss" />
+  </body>
 </opml>
