@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
-	<head>
-		<title>FreshRSS OPML extension example</title>
-	</head>
-	<body>
-		<outline xmlns:frss="https://news.calinadamut.com/bancuri.opml"
-			text="Example"
-			type="HTML+XPath"
-			xmlUrl="https://www.example.net/page.html"
-			htmlUrl="https://www.example.net/page.html"
-			description="Example of Web scraping"
-			frss:xPathItem="//a[contains(@href, '/interesting/')]/ancestor::article"
-			frss:xPathItemTitle="descendant::h2"
-			frss:xPathItemContent="."
-			frss:xPathItemUri="descendant::a[string-length(@href)&gt;0]/@href"
-			frss:xPathItemThumbnail="descendant::img/@src"
-			frss:cssFullContent="article"
-			frss:filtersActionRead="intitle:⚡️ OR intitle:🔥&#10;something"
-		/>
-	</body>
+<opml version="1.0">
+   <head>
+      <title>Fluent Reader Export</title>
+   </head>
+   <body>
+      <outline text="Stiri" name="Stiri">
+         <outline text="Pitici Gratis" name="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" />
+      </outline>
+
+      <outline text="Swiss" name="Swiss" />
+   </body>
 </opml>
