@@ -4,7 +4,7 @@
       <title>Fluent Reader Export</title>
    </head>
    <body>
-      <outline text="Stiri" name="Stiri">
+      <outline text="Stiri">
          <outline text="Pitici Gratis" name="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" />
       </outline>
 
