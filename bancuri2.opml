@@ -6,8 +6,10 @@
   <body>
     <outline text="Bancuri2">
       <outline text="Cațavencii" type="rss" xmlUrl="http://www.catavencii.ro/rss" ></outline>
+      <!--
       <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
       <outline text="Times New Roman" type="rss" xmlUrl="htps://www.timesnewroman.ro/feed/" ></outline>
+      -->
     </outline>
     <outline text="Swiss" />
   </body>
