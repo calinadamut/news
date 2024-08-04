@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline text="Stiri">
-      <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" />
+      <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
     </outline>
     <outline text="Swiss" />
   </body>
