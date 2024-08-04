@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
-  <head>
-    <title>Pitici Gratis Feeds</title>
-    <dateCreated>Sun, 04 Aug 2024 12:00:00 GMT</dateCreated>
-    <ownerName>Pitici Gratis</ownerName>
-    <ownerEmail>contact@piticigratis.com</ownerEmail>
-  </head>
-  <body>
-    <outline text="Pitici Gratis" description="Latest updates from Pitici Gratis" htmlUrl="http://www.piticigratis.com" language="ro" title="Pitici Gratis" type="rss" version="RSS2" xmlUrl="http://www.piticigratis.com/feed/" />
-  </body>
-</opml>
+	<head>
+		<title>Illustrating the category attribute</title>
+		<dateCreated>Mon, 31 Oct 2005 19:23:00 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="The Mets are the best team in baseball." category="/Philosophy/Baseball/Mets,/Tourism/New York" created="Mon, 31 Oct 2005 18:21:33 GMT"/>
+		</body>
+	</opml>
