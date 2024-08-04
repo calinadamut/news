@@ -2,10 +2,10 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Sat, 03 Aug 2024 11:32:58 +0000</dateCreated>
+    <dateCreated>Sun, 04 Aug 2024 08:10:32 +0200</dateCreated>
   </head>
   <body>
-    <outline text="Bancuri">
+    <outline text="Torrents" frss:opmlUrl="https://news.calinadamut.com/bancuri.opml">
       <outline text="Caţavencii" type="rss" xmlUrl="http://www.catavencii.ro/rss" htmlUrl="https://www.catavencii.ro/"/>
       <outline text="Pitici Gratis" type="rss" xmlUrl="https://www.piticigratis.com/feed/" htmlUrl="https://www.piticigratis.com/"/>
       <outline text="Times New Roman" type="rss" xmlUrl="https://www.timesnewroman.ro/feed/" htmlUrl="https://www.timesnewroman.ro/"/>
