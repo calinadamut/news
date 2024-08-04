@@ -6,8 +6,11 @@
   </head>
   <body>
     <outline text="Reddit">
-      <outline text="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
-      <outline text="₿itcoin" type="rss" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/"/>
+      <outline text="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/.rss"/>
+      <outline text="₿itcoin" type="rss" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/.rss"/>
+      <outline text="₿itcoin" type="rss" xmlUrl="http://www.catavencii.ro/rss" htmlUrl="http://www.catavencii.ro/rss"/>
+      <outline text="₿itcoin" type="rss" xmlUrl="https://www.piticigratis.com/feed/" htmlUrl="https://www.piticigratis.com/feed/"/>
+      <outline text="₿itcoin" type="rss" xmlUrl="https://www.timesnewroman.ro/feed/" htmlUrl="https://www.timesnewroman.ro/feed/"/>
     </outline>
   </body>
 </opml>
