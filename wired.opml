@@ -5,7 +5,8 @@
     <dateCreated>Sat, 03 Aug 2024 10:23:26 +0000</dateCreated>
   </head>
   <body>
-    <outline text="₿itcoin" type="rss" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" htmlUrl="https://www.wired.com/feed/category/business/latest/"/>
+    <outline text="Torrents">      
+      <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/category/business/latest/rss" htmlUrl="https://www.wired.com/feed/category/business/latest/"/>
     </outline>
   </body>
 </opml>
