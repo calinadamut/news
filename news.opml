@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head>
-    <title>Fluent Reader Export</title>
-  </head>
-  <body>
-    <outline text="News">
-      <outline text="Zero Hedge" type="rss" xmlUrl="https://cms.zerohedge.com/fullrss2.xml" ></outline>
-    </outline>
-    <outline text="Swiss" />
-  </body>
+    <head>
+        <title>
+            Subscriptions
+        </title>
+    </head>
+    <body>
+        <outline text="Feeds Folder" title="Feeds Folder">
+            <outline text="Feed 1" title="Feed 1" xmlUrl="hhttps://cms.zerohedge.com/fullrss2.xml"/>
+            <outline text="Feed 2" title="Feed 2" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"/>
+        </outline>
+        <outline text="Feed 3" title="Feed 3" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"/>
+        <outline text="Duplicate feed example" title="Feed 3" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"/>
+    </body>
 </opml>
