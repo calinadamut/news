@@ -5,10 +5,10 @@
 	</head>
 	<body>
 		<outline xmlns:frss="https://freshrss.org/opml"
-			text="Example"
+			text="MediaFax"
 			type="HTML+XPath"
-			xmlUrl="https://cms.zerohedge.com/fullrss2.xml"
-			htmlUrl="https://cms.zerohedge.com/"
+			xmlUrl="https://www.mediafax.ro/rss"
+			htmlUrl="https://www.mediafax.ro/"
 			description="Example of Web scraping"
 			frss:xPathItem="//a[contains(@href, '/interesting/')]/ancestor::article"
 			frss:xPathItemTitle="descendant::h2"
