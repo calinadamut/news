@@ -7,7 +7,7 @@
     </head>
     <body>
         <outline text="Feeds Folder" title="Feeds Folder">
-            <outline text="Feed 1" title="Zero Hedge" xmlUrl="hhttps://cms.zerohedge.com/fullrss2.xml"/>
+            <outline text="Feed 1" title="Zero Hedge" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"/>
             <outline text="Feed 2" title="Feed 2" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"/>
         </outline>
         <outline text="Feed 3" title="Feed 3" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"/>
