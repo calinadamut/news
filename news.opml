@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-    <head>
-        <title>
-            Subscriptions
-        </title>
-    </head>
-    <body>
-        <outline text="Feeds Folder" title="Feeds Folder">
-            <outline text="Feed 1" title="Zero Hedge" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"></outline>
-            <outline text="Feed 2" title="Feed 2" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"></outline>
-        </outline>
-        <outline text="Feed 3" title="Feed 3" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"></outline>
-        <outline text="Duplicate feed example" title="Feed 3" xmlUrl="https://cms.zerohedge.com/fullrss2.xml"></outline>
-    </body>
+	<head>
+		<title>FreshRSS OPML extension example</title>
+	</head>
+	<body>
+		<outline xmlns:frss="https://freshrss.org/opml"
+			text="Example"
+			type="HTML+XPath"
+			xmlUrl="https://www.example.net/page.html"
+			htmlUrl="https://www.example.net/page.html"
+			description="Example of Web scraping"
+			frss:xPathItem="//a[contains(@href, '/interesting/')]/ancestor::article"
+			frss:xPathItemTitle="descendant::h2"
+			frss:xPathItemContent="."
+			frss:xPathItemUri="descendant::a[string-length(@href)&gt;0]/@href"
+			frss:xPathItemThumbnail="descendant::img/@src"
+			frss:cssFullContent="article"
+			frss:filtersActionRead="intitle:⚡️ OR intitle:🔥&#10;something"
+		/>
+	</body>
 </opml>
