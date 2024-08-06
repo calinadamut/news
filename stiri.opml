@@ -25,7 +25,7 @@
       <outline text="Radio Europa LiberÄƒ" description="Radio Europa LiberÄƒ" htmlUrl="https://romania.europalibera.org/" language="ro" title="Radio Europa LiberÄƒ" type="rss" version="RSS2"  xmlUrl="https://romania.europalibera.org/api/"></outline>
       <outline text="Realitatea.net" description="Realitatea.net" htmlUrl="https://www.realitatea.net/ultimele-stiri" language="ro" title="Realitatea.net" type="rss" version="RSS2"  xmlUrl="https://www.realitatea.net/share/atom/ultimele-stiri.xml"></outline>
       <outline text="Spotmedia.ro" description="Spotmedia.ro" htmlUrl="https://spotmedia.ro/" language="ro" title="Spotmedia.ro" type="rss" version="RSS2"  xmlUrl="https://spotmedia.ro/feed"></outline>
-      <outline text="Umbrela StrategicÄƒ" description="Umbrela StrategicÄƒ" htmlUrl="https://umbrela-strategica.ro/" language="ro" title="Umbrela StrategicÄƒ" type="rss" version="RSS2"  xmlUrl="ttps://umbrela-strategica.ro/feed"></outline>      
+      <outline text="Umbrela StrategicÄƒ" description="Umbrela StrategicÄƒ" htmlUrl="https://umbrela-strategica.ro/" language="ro" title="Umbrela StrategicÄƒ" type="rss" version="RSS2"  xmlUrl="https://umbrela-strategica.ro/feed"></outline>      
       <outline text="Zoso blog" description="Zoso blog" htmlUrl="https://zoso.ro/" language="ro" title="Zoso blog" type="rss" version="RSS2"  xmlUrl="https://zoso.ro/feed/"></outline>
     </outline>
   </body>
