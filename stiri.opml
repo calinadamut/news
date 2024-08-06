@@ -1,27 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
   <head>
     <title>Știri</title>
-    <dateCreated>Tue, 06 Aug 2024 07:47:03 +0200</dateCreated>
-  </head>
+    <dateCreated>Sat, 18 Jun 2005 12:11:52 GMT</dateCreated>
+    <dateModified>Tue, 02 Aug 2005 21:42:48 GMT</dateModified>
+    <ownerName>P.- Călin A.</ownerName>
+    <ownerEmail>contact@calinadamut.com</ownerEmail>
+    <expansionState></expansionState>
+    <vertScrollState>1</vertScrollState>
+    <windowTop>61</windowTop>
+    <windowLeft>304</windowLeft>
+    <windowBottom>562</windowBottom>
+    <windowRight>842</windowRight>
+    </head>
   <body>
     <outline text="Știri">
-      <outline text="BVBescu.ro" type="rss" xmlUrl="http://bvbescu.ro/feed" htmlUrl="https://bvbescu.ro/"></outline>
-      <outline text="defapt.ro" type="rss" xmlUrl="https://defapt.ro/feed/" htmlUrl="https://defapt.ro/"></outline>
-      <outline text="Digi24" type="rss" xmlUrl="https://www.digi24.ro/rss" htmlUrl="https://www.digi24.ro/"></outline>
-      <outline text="ExTraViTa" type="rss" xmlUrl="http://extravita.ro/feed/" htmlUrl="https://extravita.ro/"></outline>
-      <outline text="Financiarul" type="rss" xmlUrl="https://financiarul.ro/feed/" htmlUrl="https://financiarul.ro/"></outline>
-      <outline text="Flux24.ro" type="rss" xmlUrl="https://flux24.ro/feed/" htmlUrl="https://flux24.ro/"></outline>
-      <outline text="G4Media.ro" type="rss" xmlUrl="https://www.g4media.ro/feed" htmlUrl="https://www.g4media.ro/"></outline>
-      <outline text="HotNews.ro" type="rss" xmlUrl="http://rss.hotnews.ro/" htmlUrl="https://hotnews.ro/"></outline>
-      <outline text="Obiectiv.info" type="rss" xmlUrl="https://www.obiectiv.info/rss/stiri.xml" htmlUrl="https://www.obiectiv.info/rss"></outline>
-      <outline text="PRESShub" type="rss" xmlUrl="https://www.presshub.ro/feed/" htmlUrl="https://www.presshub.ro/"></outline>
-      <outline text="PS News" type="rss" xmlUrl="http://psnews.ro/feed/" htmlUrl="https://psnews.ro/"></outline>
-      <outline text="Radio Europa Liberă" type="rss" xmlUrl="https://romania.europalibera.org/api/" htmlUrl="https://romania.europalibera.org/"></outline>
-      <outline text="Realitatea.net" type="rss" xmlUrl="https://www.realitatea.net/share/atom/ultimele-stiri.xml" htmlUrl="https://www.realitatea.net/ultimele-stiri"></outline>
-      <outline text="spotmedia.ro" type="rss" xmlUrl="https://spotmedia.ro/feed" htmlUrl="https://spotmedia.ro/"></outline>
-      <outline text="Umbrela Strategică" type="rss" xmlUrl="https://umbrela-strategica.ro/feed" htmlUrl="https://umbrela-strategica.ro/"></outline>
-      <outline text="Zoso blog" type="rss" xmlUrl="https://zoso.ro/feed/" htmlUrl="https://zoso.ro/"></outline>
+      <outline text="" description="" htmlUrl="http://news.com./" language="ro" title="" type="rss" version="RSS2"  xmlUrl=""/>
+      <outline text="defapt.ro" description="defapt.ro" htmlUrl="https://defapt.ro/" language="ro" title="Defapt.ro" type="rss" version="RSS2" xmlUrl="https://defapt.ro/feed/"/>
+      <outline text="Digi24" description="Digi24" htmlUrl="http://https://www.digi24.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://www.digi24.ro/rss"/>
+      <outline text="ExTraViTa" description="ExTraViTa" htmlUrl="https://extravita.ro/" language="ro" title="ExTraViTa" type="rss" version="RSS2"  xmlUrl="http://extravita.ro/feed/"/>
+      <outline text="Financiarul" description="Financiarul" htmlUrl="https://financiarul.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://financiarul.ro/feed/"/>
+      <outline text="Flux24.ro" description="Flux24.ro" htmlUrl="https://flux24.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://flux24.ro/feed/"/>
+      <outline text="G4Media.ro" description="G4Media.ro" htmlUrl="https://www.g4media.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://www.g4media.ro/feed"/>
+      <outline text="HotNews.ro" description="HotNews.ro" htmlUrl="https://hotnews.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="http://rss.hotnews.ro/"/>
+      <outline text="Obiectiv.info" description="Obiectiv.info" htmlUrl="https://www.obiectiv.info/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://www.obiectiv.info/rss/stiri.xml"/>
+      <outline text="PRESShub" description="PRESShub" htmlUrl="https://www.presshub.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://www.presshub.ro/feed/"/>
+      <outline text="PS News" description="PS News" htmlUrl="https://psnews.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="http://psnews.ro/feed/"/>
+      <outline text="Radio Europa LiberÄƒ" description="Radio Europa LiberÄƒ" htmlUrl="https://romania.europalibera.org/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://romania.europalibera.org/api/"/>
+      <outline text="Realitatea.net" description="Realitatea.net" htmlUrl="https://www.realitatea.net/ultimele-stiri" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://www.realitatea.net/share/atom/ultimele-stiri.xml"/>
+      <outline text="Spotmedia.ro" description="Spotmedia.ro" htmlUrl="https://spotmedia.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://spotmedia.ro/feed"/>
+      <outline text="Umbrela StrategicÄƒ" description="Umbrela StrategicÄƒ" htmlUrl="https://umbrela-strategica.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="ttps://umbrela-strategica.ro/feed"/>      
+      <outline text="Zoso blog" description="Zoso blog" htmlUrl="https://zoso.ro/" language="ro" title="" type="rss" version="RSS2"  xmlUrl="https://zoso.ro/feed/"/>
     </outline>
   </body>
 </opml>
