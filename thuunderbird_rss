@@ -1,1 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>News</title>
+    </head>
+<body>
+
+    <!--                                        Bancuri -->
+        <outline text="Bancuri">
+            
+            <!-- 1 -->
+            <outline text= "Pitici Gratis">
+                <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
+            </outline>
+
+            <!-- 2 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+            <!-- 3 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+        </outline>
+
+
+
+
+
+    <!--                                        News    -->
+        <outline text="News">
+            
+            <!-- 1 -->
+            <outline text= "Pitici Gratis">
+                <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
+            </outline>
+
+            <!-- 2 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+            <!-- 3 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+        </outline>
+
+
+
+    <!--                                        Stiri    -->
+        <outline text="News">
+            
+            <!-- 1 -->
+            <outline text= "Pitici Gratis">
+                <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
+            </outline>
+
+            <!-- 2 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+            <!-- 3 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+        </outline>
+
+
+
+
+
+    <!--                                        Reddit    -->
+        <outline text="Reddit">
+            
+            <!-- 1 -->
+            <outline text= "World News">
+                <outline text="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss"/></outline>
+            </outline>
+
+            <!-- 2 -->
+            <outline text= "₿itcoin">
+                <outline text="₿itcoin" type="rss" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss"/></outline>
+            </outline>
+
+            <!-- 3 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+        </outline>
+
+
+
+    <!--                                        Torrents    -->
+        <outline text="Torrents">
+            
+            <!-- 1 -->
+            <outline text= "Pitici Gratis">
+                <outline text="Pitici Gratis" type="rss" xmlUrl="http://www.piticigratis.com/feed/" ></outline>
+            </outline>
+
+            <!-- 2 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+            <!-- 3 -->
+            <outline text= "BBC International">
+                <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
+            </outline>
+
+        </outline>
+
+
+
+
+
+
+
+
+
+
+</body>
+</opml>
 
