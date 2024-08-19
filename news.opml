@@ -4,7 +4,7 @@
         <title>OPML</title>
     </head>
 <body>
-    <outline text="my favorite german wheel companies">
+    <outline text="News">
         <outline text="MediaFax" type="rss" xmlUrl="http://www.mediafax.ro/rss/"></outline>
 	<outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
     </outline>
