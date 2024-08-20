@@ -46,7 +46,7 @@
           
       <!-- Bursa -->
           <outline title="Bursa">
-            <outline title="Bursa,ro">
+            <outline title="Bursa.ro">
               <outline type="rss" title="Bursa.ro" text="Bursa.ro" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140833119,&quot;lastDownloadTime&quot;:1724138912318,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="http://www.bursa.ro/_rss/?t=tz" htmlUrl="http://www.bursa.ro/"/>
             </outline>  
             <outline title="Wall-Street.ro">  
@@ -134,7 +134,7 @@
           
       <!-- Torrents -->
           <outline title="Torrents">
-            <outline title="TPB - HD Movies">
+            <outline title="TPB | HD Movies">
               <outline type="rss" title="TPB - HD Movies" text="TPB - HD Movies" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140849157,&quot;lastDownloadTime&quot;:1724140849157,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://tpb.party/rss/top100/207" htmlUrl="https://tpb.party"/>
             </outline>    
             <outline title="YTS RSS">  
@@ -202,13 +202,13 @@
             <outline title="Republica">  
               <outline type="rss" title="Republica" text="Republica" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140866553,&quot;lastDownloadTime&quot;:1724132926018,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://republica.ro/rss" htmlUrl="https://republica.ro"/>
             </outline>  
-            <outline title="Ziare.com 12h">  
+            <outline title="Ziare.com | 12h">  
               <outline type="rss" title="Ziare.com 12h" text="Ziare.com 12h" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140858301,&quot;lastDownloadTime&quot;:1724140858301,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.ziare.com/rss/12h.xml" htmlUrl="https://ziare.com/"/>
             </outline>  
-            <outline title="Ziare.com Actualitate">  
+            <outline title="Ziare.com | Actualitate">  
               <outline type="rss" title="Ziare.com Actualitate" text="Ziare.com Actualitate" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140856381,&quot;lastDownloadTime&quot;:1724139031365,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.ziare.com/rss/actualitate.xml" htmlUrl="https://ziare.com/"/>
             </outline>  
-            <outline title="Ziare.com Breaking News">  
+            <outline title="Ziare.com | Breaking News">  
               <outline type="rss" title="Ziare.com Breaking News" text="Ziare.com Breaking News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140855972,&quot;lastDownloadTime&quot;:1724139031251,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://ziare.com/rss/breaking_news.xml" htmlUrl="https://ziare.com/"/>
             </outline>  
             <outline title="În Linie Dreaptă">  
@@ -228,20 +228,20 @@
           
       <!-- Stock Exchange -->
           <outline title="Stock Exchange">
-            <outline title="NYT &gt; Business">
-              <outline type="rss" title="NYT &gt; Business" text="NYT &gt; Business" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140863620,&quot;lastDownloadTime&quot;:1724132912243,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="https://www.nytimes.com/section/business"/>
+            <outline title="NYT | Business">
+              <outline type="rss" title="NYT | Business" text="NYT &gt; Business" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140863620,&quot;lastDownloadTime&quot;:1724132912243,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="https://www.nytimes.com/section/business"/>
             </outline>  
           </outline>
           
       <!-- Reddit News -->
           <outline title="Reddit">
-            <outline title="Coinspectator">
+            <outline title="News">
               <outline type="rss" title="News" text="News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140862487,&quot;lastDownloadTime&quot;:1724138973986,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.reddit.com/r/news/.rss" htmlUrl="https://www.reddit.com/r/news/.rss"/>
             </outline>
-            <outline title="Coinspectator">
+            <outline title="World News">
               <outline type="rss" title="World News" text="World News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140862688,&quot;lastDownloadTime&quot;:1724138974169,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/.rss"/>
             </outline>
-            <outline title="Coinspectator">
+            <outline title="₿itcoin">
               <outline type="rss" title="₿itcoin" text="₿itcoin" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140862694,&quot;lastDownloadTime&quot;:1724138974196,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/.rss"/>
             </outline>
           </outline>
@@ -303,55 +303,47 @@
 
       <!-- YouTube News -->
           <outline title="YouTube News">
-
             <outline title="DW News">
               <outline type="rss" title="DW News" text="DW News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880613,&quot;lastDownloadTime&quot;:1724140880613,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg"/>
             </outline>
-
             <outline title="Face the Nation">
               <outline type="rss" title="Face the Nation" text="Face the Nation" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880735,&quot;lastDownloadTime&quot;:1724132911674,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2x_qNZXKDxNP1j4jvHATRQ" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC2x_qNZXKDxNP1j4jvHATRQ"/>
             </outline>  
-
             <outline title="France 24 English">
               <outline type="rss" title="France 24 English" text="France 24 English" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880951,&quot;lastDownloadTime&quot;:1724140880951,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg"/>
-            </outline>  
-            
+            </outline>          
             <outline title="Global News">
               <outline type="rss" title="Global News" text="Global News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880962,&quot;lastDownloadTime&quot;:1724132912254,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChLtXXpo4Ge1ReTEboVvTDg" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UChLtXXpo4Ge1ReTEboVvTDg"/>
-            </outline>
-            
+            </outline>            
             <outline title="Guardian News">
               <outline type="rss" title="Guardian News" text="Guardian News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880658,&quot;lastDownloadTime&quot;:1724140880658,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIRYBXDze5krPDzAEOxFGVA" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCIRYBXDze5krPDzAEOxFGVA"/>
-            </outline>  
-
+            </outline>
             <outline title="Sky Newss">
               <outline type="rss" title="Sky News" text="Sky News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880990,&quot;lastDownloadTime&quot;:1724140880990,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoMdktPbSTixAyNGwb-UYkQ" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCoMdktPbSTixAyNGwb-UYkQ"/>
-            </outline>  
-
+            </outline>
             <outline title="The White House">
               <outline type="rss" title="The White House" text="The White House" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140880969,&quot;lastDownloadTime&quot;:1724132912921,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYxRlFDqcWM4y7FfpiAN3KQ" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCYxRlFDqcWM4y7FfpiAN3KQ"/>
             </outline>
-
           </outline>
           
       <!-- YouTube Music -->
           <outline title="YouTube Music">
-            <outline title="YouTube Music">
+            <outline title="Deep Mix">
               <outline type="rss" title="Deep Mix" text="Deep Mix" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140881000,&quot;lastDownloadTime&quot;:1724132910158,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCINPyNJij5L_Z5WzwBFHu7g" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCINPyNJij5L_Z5WzwBFHu7g"/>
             </outline>
-            <outline title="YouTube Music">  
+            <outline title="Gentleman">  
               <outline type="rss" title="Gentleman" text="Gentleman" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140881026,&quot;lastDownloadTime&quot;:1724132910335,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgeu2xe0XRscaKyvBt3WgmQ" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCgeu2xe0XRscaKyvBt3WgmQ"/>
             </outline>  
-            <outline title="YouTube Music">  
+            <outline title="Piano Relaxing">  
               <outline type="rss" title="Piano Relaxing" text="Piano Relaxing" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140881034,&quot;lastDownloadTime&quot;:1724132910948,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEiS8m8OLFI0REntmsTvzjA" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCEiS8m8OLFI0REntmsTvzjA"/>
             </outline>  
-            <outline title="YouTube Music">  
+            <outline title="Queen Deep">  
               <outline type="rss" title="Queen Deep" text="Queen Deep" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140881181,&quot;lastDownloadTime&quot;:1724138973418,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTS9U13K42rCcRWJsdPW8yA" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCTS9U13K42rCcRWJsdPW8yA"/>
             </outline>  
-            <outline title="YouTube Music">  
+            <outline title="Relaxation Film">  
               <outline type="rss" title="Relaxation Film" text="Relaxation Film" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140881054,&quot;lastDownloadTime&quot;:1724132911384,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPotnGNahFjLWjfsq4KYvuQ" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCPotnGNahFjLWjfsq4KYvuQ"/>
             </outline>  
-            <outline title="YouTube Music">  
+            <outline title="Relax Chillout Music">  
               <outline type="rss" title="Relax Chillout Music" text="Relax Chillout Music" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140881136,&quot;lastDownloadTime&quot;:1724132911558,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUjD5RFkzbwfivClshUqqpg" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCUjD5RFkzbwfivClshUqqpg"/>
             </outline>
           </outline>
@@ -382,27 +374,27 @@
           </outline>
           
       <!-- Linux News -->
-          <outline title="Linux">
-            <outline title="Știri Moldova">
+          <outline title="Linux News">
+            <outline title="9to5Linux">
               <outline type="rss" title="9to5Linux" text="9to5Linux" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140885003,&quot;lastDownloadTime&quot;:1724132901765,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://9to5linux.com/feed/atom" htmlUrl="https://9to5linux.com/feed/atom"/>
             </outline>
-            <outline title="Știri Moldova">
+            <outline title="It's FOSS News">
               <outline type="rss" title="It's FOSS News" text="It's FOSS News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140885544,&quot;lastDownloadTime&quot;:1724132901454,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://news.itsfoss.com/latest/rss/" htmlUrl="https://news.itsfoss.com/"/>
             </outline>
-            <outline title="Știri Moldova">
+            <outline title="Linuxiac">
               <outline type="rss" title="Linuxiac" text="Linuxiac" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140885324,&quot;lastDownloadTime&quot;:1724132901072,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://linuxiac.com/feed/" htmlUrl="https://linuxiac.com"/>
             </outline>
-            <outline title="Știri Moldova">  
+            <outline title="Linux Today">  
               <outline type="rss" title="Linux Today" text="Linux Today" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140887245,&quot;lastDownloadTime&quot;:1724132901280,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.linuxtoday.com/feed/" htmlUrl="https://www.linuxtoday.com/"/>
             </outline>
-            <outline title="Știri Moldova">  
+            <outline title="Slashdot">  
               <outline type="rss" title="Slashdot" text="Slashdot" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140887987,&quot;lastDownloadTime&quot;:1724138910890,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;1970-01-01T00:00+00:00&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
             </outline>
-            <outline title="Știri Moldova">  
+            <outline title="Vanilla OS Blog">  
               <outline type="rss" title="Vanilla OS Blog" text="Vanilla OS Blog" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724140889032,&quot;lastDownloadTime&quot;:1724132903721,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://vanillaos.org/feed.xml" htmlUrl="https://vanillaos.org/feed.xml"/>
             </outline>
           </outline>
-          
+
     </outline>  
   </body>
 </opml>
