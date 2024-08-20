@@ -1,0 +1,7 @@
+<outline text="Flux24.ro" name="Flux24.ro" type="rss" xmlUrl="http://www.flux24.ro/feed/" htmlUrl="https://flux24.ro/"/>
+<outline text="Deutsche Welle: DW.DE - România" name="Deutsche Welle: DW.DE - România" type="rss" xmlUrl="http://rss.dw.de/xml/rss-rom-rom" htmlUrl="https://www.dw.com/ro/rom%C3%A2nia/t-17949962"/>
+
+<outline text="OBIECTIV.INFO - Ştiri" name="OBIECTIV.INFO - Ştiri" type="rss" xmlUrl="http://www.obiectiv.info/rss/stiri.xml" htmlUrl="http://www.obiectiv.info"/>
+ <outline text="Bani | Business | Ziare.com" name="Bani | Business | Ziare.com" type="rss" xmlUrl="http://www.ziare.com/rss/bani.xml" htmlUrl="http://www.ziare.com"/>
+
+<outline text="Userkommentare zu aktuellen Meldungen | meta tagesschau" name="Userkommentare zu aktuellen Meldungen | meta tagesschau" type="rss" xmlUrl="https://meta.tagesschau.de/feed" />
