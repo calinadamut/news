@@ -1,12 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
-    <head>
-        <title>OPML</title>
-    </head>
-<body>
-    <outline text="News">
-        <outline text="MediaFax" type="rss" xmlUrl="http://www.mediafax.ro/rss/"></outline>
-	<outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"></outline>
-    </outline>
-</body>
+ <head>
+  <title>RSS Feed</title>
+ </head>
+ <body>
+
+  <!-- Știri -->
+  <outline text="Știri">
+    <outline text="defapt.ro" type="rss" xmlUrl="https://defapt.ro/feed/" htmlUrl="https://defapt.ro/"/>
+    <outline text="Digi24" type="rss" xmlUrl="https://www.digi24.ro/rss" htmlUrl="https://www.digi24.ro/"/>
+    <outline text="ExTraViTa" type="rss" xmlUrl="http://extravita.ro/feed/" htmlUrl="https://extravita.ro/"/>
+    <outline text="Financiarul" type="rss" xmlUrl="https://financiarul.ro/feed/" htmlUrl="https://financiarul.ro/"/>
+    <outline text="G4Media.ro" type="rss" xmlUrl="https://www.g4media.ro/feed" htmlUrl="https://www.g4media.ro/"/>
+    <outline text="HotNews.ro" type="rss" xmlUrl="https://rss.hotnews.ro/" htmlUrl="https://hotnews.ro/"/>
+    <outline text="PRESShub" type="rss" xmlUrl="https://www.presshub.ro/feed/" htmlUrl="https://www.presshub.ro/"/>
+    <outline text="PS News" type="rss" xmlUrl="https://psnews.ro/feed/" htmlUrl="https://psnews.ro/"/>
+    <outline text="Radio Europa Liberă" type="rss" xmlUrl="https://romania.europalibera.org/api/" htmlUrl="https://romania.europalibera.org/"/>
+    <outline text="Realitatea.net" type="rss" xmlUrl="https://www.realitatea.net/share/atom/ultimele-stiri.xml" htmlUrl="https://www.realitatea.net/ultimele-stiri"/>
+    <outline text="Spotmedia.ro" type="rss" xmlUrl="https://spotmedia.ro/feed" htmlUrl="https://spotmedia.ro/"/>
+    <outline text="Umbrela Strategică" type="rss" xmlUrl="https://umbrela-strategica.ro/feed" htmlUrl="https://umbrela-strategica.ro/"/> 
+    <outline text="Zoso blog" type="rss" xmlUrl="https://zoso.ro/feed/" htmlUrl="https://zoso.ro/"/>
+    <outline text="MediaFax" type="rss" xmlUrl="http://www.mediafax.ro/rss/"/>
+  </outline>
+
+  <!-- News -->
+  <outline text="News">
+    <outline text="Digital Journal" type="rss" xmlUrl="https://www.digitaljournal.com/feed" htmlUrl="https://www.digitaljournal.com/"/>
+    <outline text="The Independent World" type="rss" xmlUrl="https://www.independent.co.uk/news/world/rss" htmlUrl="https://www.independent.co.uk/"/>
+    <outline text="BBC International" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com"/>
+    <outline text="NYT Business" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/"/>
+    <outline text="CNBC | Business News" type="rss" xmlUrl="https://www.cnbc.com/id/10001147/device/rss/rss.html" htmlUrl="https://www.cnbc.com/"/>
+    <outline text="WSJ | World News" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="https://www.wsj.com/"/>
+    <outline text="WSJ | Business" type="rss" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" htmlUrl="https://www.wsj.com/"/>
+    <outline text="WSJ | Market" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSMarketsMain.xml" htmlUrl="https://www.wsj.com/"/>
+    <outline text="WSJ | Technology" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWSJD.xml" htmlUrl="https://www.wsj.com/"/>
+    <outline text="The Guardian | World news" type="rss" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>
+  </outline>
+
+  <!-- ₿itcoin -->
+  <outline text="₿itcoin">
+    <outline text="Bitcoin Insider" type="rss" xmlUrl="https://www.bitcoininsider.org/rss.xml" htmlUrl="https://www.bitcoininsider.org/"/>
+    <outline text="Bitcoin Magazine" type="rss" xmlUrl="https://bitcoinmagazine.com/.rss/full/" htmlUrl="https://bitcoinmagazine.com/"/>
+    <outline text="Bitcoin News" type="rss" xmlUrl="https://news.bitcoin.com/feed/" htmlUrl="https://news.bitcoin.com/"/>
+    <outline text="CoinDesk" type="rss" xmlUrl="https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml" htmlUrl="https://www.coindesk.com/"/>
+    <outline text="Coinspectator" type="rss" xmlUrl="https://coinspectator.com/feed/" htmlUrl="https://coinspectator.com/"/>
+    <outline text="Cointelegraph" type="rss" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com/"/>
+    <outline text="crypto.news" type="rss" xmlUrl="https://crypto.news/feed/" htmlUrl="https://crypto.news/"/>
+    <outline text="Crypto Archives" type="rss" xmlUrl="https://cryptonewmedia.press/category/crypto/feed/" htmlUrl="https://cryptonewmedia.press/category/crypto/"/>
+    <outline text="CryptoCurrency" type="rss" xmlUrl="https://www.financemagnates.com/cryptocurrency/feed/" htmlUrl="https://www.financemagnates.com/"/>
+    <outline text="Crypto Daily™" type="rss" xmlUrl="https://cryptodaily.co.uk/feed/" htmlUrl="https://cryptodaily.co.uk/"/>
+    <outline text="NewsBTC" type="rss" xmlUrl="https://www.newsbtc.com/feed/" htmlUrl="https://www.newsbtc.com/"/>
+    <outline text="No Bullshit Bitcoin" type="rss" xmlUrl="https://www.nobsbitcoin.com/rss/" htmlUrl="https://www.nobsbitcoin.com/"/>
+    <outline text="The Bitcoin Manual" type="rss" xmlUrl="https://thebitcoinmanual.com/feed/" htmlUrl="https://thebitcoinmanual.com/"/>
+    <outline text="The Cryptonomist" type="rss" xmlUrl="https://en.cryptonomist.ch/feed/" htmlUrl="https://cryptonomist.ch/"/>
+    <outline text="The Daily Hodl" type="rss" xmlUrl="https://dailyhodl.com/feed/" htmlUrl="https://dailyhodl.com/"/>
+    <outline text="UseTheBitcoin" type="rss" xmlUrl="https://usethebitcoin.com/feed/" htmlUrl="https://usethebitcoin.com/"/>
+    <outline text="ZyCrypto" type="rss" xmlUrl="https://zycrypto.com/feed/" htmlUrl="https://zycrypto.com/"/>
+  </outline>
+
+ </body>
 </opml>
