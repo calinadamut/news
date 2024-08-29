@@ -1,0 +1,14 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>News Feeds</title>
+    <dateCreated>Thu, 29 Aug 2024 02:54:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="RSS Feed">
+      <outline title="Știri Timișoara">
+        <outline title="deBanat.ro">
+          <outline type="rss" title="deBanat.ro" text="deBanat.ro" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900062970,&quot;lastDownloadTime&quot;:1724900062970,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://debanat.ro/feed" htmlUrl="https://debanat.ro/"/></outline>
+        <outline title="Opinia Timișoarei">
+          <outline type="rss" title="Opinia Timișoarei" text="Opinia Timișoarei" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900064269,&quot;lastDownloadTime&quot;:1724900064269,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.opiniatimisoarei.ro/feed" htmlUrl="https://www.opiniatimisoarei.ro/"/></outline></outline>
+  </body>
+</opml>
