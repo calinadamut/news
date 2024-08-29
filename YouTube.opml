@@ -1,0 +1,19 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Thunderbird OPML Export - News Feeds</title>
+    <dateCreated>Thu, 29 Aug 2024 02:54:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="RSS Feed">
+      <outline title="YouTube">
+        <outline title="CNN">
+          <outline type="rss" title="CNN" text="CNN" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900069281,&quot;lastDownloadTime&quot;:1724900069281,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"/></outline>
+        <outline title="WW Banciu">
+          <outline type="rss" title="WW Banciu" text="WW Banciu" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900069495,&quot;lastDownloadTime&quot;:1724900069495,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:true,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe5xdC4tDdpcT-nyzwAkZkw" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCe5xdC4tDdpcT-nyzwAkZkw"/></outline>
+        <outline title="China in Focus - NTD">
+          <outline type="rss" title="China in Focus - NTD" text="China in Focus - NTD" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900069718,&quot;lastDownloadTime&quot;:1724900069718,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBOqkAGTtzZVmKvY4SwdZ2g" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCBOqkAGTtzZVmKvY4SwdZ2g"/></outline>
+        <outline title="Coindesk">
+          <outline type="rss" title="CoinDesk" text="CoinDesk" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900069758,&quot;lastDownloadTime&quot;:1724900069758,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7TghOL755nBk7HelHoi9LQ" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC7TghOL755nBk7HelHoi9LQ"/></outline>
+    </outline>
+</body>
+</opml>
