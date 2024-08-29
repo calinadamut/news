@@ -1,0 +1,16 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Thunderbird OPML Export - News Feeds</title>
+    <dateCreated>Thu, 29 Aug 2024 02:54:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="RSS Feed">
+      <outline title="Bancuri">
+        <outline title="Pitici Gratis">
+          <outline type="rss" title="Pitici Gratis" text="Pitici Gratis" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900064112,&quot;lastDownloadTime&quot;:1724161691002,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:true,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.piticigratis.com/feed/" htmlUrl="https://www.piticigratis.com/"/></outline>
+        <outline title="Times New Roman">
+          <outline type="rss" title="Times New Roman" text="Times New Roman" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724900067242,&quot;lastDownloadTime&quot;:1724900067242,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:true,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.timesnewroman.ro/feed/" htmlUrl="https://www.timesnewroman.ro/"/></outline>
+        <outline title="Cațavencii">
+          <outline type="rss" title="Cațavencii" text="Cațavencii" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1724599505201,&quot;lastDownloadTime&quot;:1724593471618,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:true,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:null}}" xmlUrl="https://www.catavencii.ro/feed/" htmlUrl="https://www.catavencii.ro/"/></outline></outline>
+  </body>
+</opml>
