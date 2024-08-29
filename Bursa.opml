@@ -9,16 +9,20 @@
       <outline title="Bursa">
         <outline title="ZF">
           <outline type="rss" title="ZF" text="ZF" version="RSS"
-                   xmlUrl="https://www.zf.ro/rss.xml" htmlUrl="https://www.zf.ro/"/></outline>
+                   xmlUrl="https://www.zf.ro/rss.xml" htmlUrl="https://www.zf.ro/"/>
+        </outline>
         <outline title="Wall-Street.ro">
           <outline type="rss" title="Wall-Street.ro" text="Wall-Street.ro" version="RSS"
-                   xmlUrl="https://img.wall-street.ro/rssfeeds/wall-street.xml" htmlUrl="https://www.wall-street.ro"/></outline>
+                   xmlUrl="https://img.wall-street.ro/rssfeeds/wall-street.xml" htmlUrl="https://www.wall-street.ro"/>
+        </outline>
         <outline title="Bursa.ro">
           <outline type="rss" title="Bursa.ro" text="Bursa.ro" version="RSS"
-                   xmlUrl="http://www.bursa.ro/_rss/?t=tz" htmlUrl="http://www.bursa.ro/"/></outline>
+                   xmlUrl="http://www.bursa.ro/_rss/?t=tz" htmlUrl="http://www.bursa.ro/"/>
+        </outline>
         <outline title="Ziare.com Business">
           <outline type="rss" title="Ziare.com Business" text="Ziare.com Business" version="RSS"
-                   xmlUrl="https://www.ziare.com/rss/business.xml" htmlUrl="https://ziare.com/business/"/></outline>
+                   xmlUrl="https://www.ziare.com/rss/business.xml" htmlUrl="https://ziare.com/business/"/>
+        </outline>
       </outline>
     </outline>
   </body>
